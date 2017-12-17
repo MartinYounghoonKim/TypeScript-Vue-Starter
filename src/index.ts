@@ -1,6 +1,6 @@
 import Vue from "vue";
-import HelloComponent from "./components/Hello.vue";
-import HelloDecoratorComponent from "./components/HelloDecorator.vue";
+import HelloComponent from "@/components/Hello.vue";
+import HelloDecoratorComponent from "@/components/HelloDecorator.vue";
 
 let v = new Vue({
     el: "#app",
